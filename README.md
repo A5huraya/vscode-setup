@@ -11,7 +11,7 @@ A clean, low-distraction VS Code config: Catppuccin Macchiato theme, JetBrains M
 
 ## Requirements
 
-- [Catppuccin for VS Code](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) — color theme
+- [Catppuccin for VS Code](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) OR [Dark Magic Themes](https://marketplace.visualstudio.com/items?itemName=davidmorais.dark-magic-themes) — color theme
 - [Catppuccin Icons for VS Code](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) — icon theme
 - [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font/jetbrains-mono) installed on your system
 
