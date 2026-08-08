@@ -1,0 +1,93 @@
+{
+    // ============================================================
+    // THEME
+    // ============================================================
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+
+    // ============================================================
+    // TYPOGRAPHY
+    // ============================================================
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'JetBrains Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.6,
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font'",
+    "terminal.integrated.fontSize": 13,
+
+    // ============================================================
+    // EDITOR FEEL / SMOOTHNESS
+    // ============================================================
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.accessibilitySupport": "off", // set to "auto" if you use a screen reader
+    "editor.find.cursorMoveOnType": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.stickyScroll.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.inlayHints.enabled": "onUnlessPressed",
+    "editor.formatOnSave": true,
+
+    // ============================================================
+    // WORKBENCH / LAYOUT
+    // ============================================================
+    "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
+    "window.titleBarStyle": "custom",
+    "breadcrumbs.enabled": true,
+
+    // ============================================================
+    // GIT
+    // ============================================================
+    "git.autofetch": true,
+    "git.confirmSync": false,
+
+    // ============================================================
+    // PRIVACY
+    // ============================================================
+    "telemetry.telemetryLevel": "off",
+    "workbench.enableExperiments": false
+
+    // ============================================================
+    // OPTIONAL — uncomment whatever applies to you
+    // ============================================================
+
+    // --- AI tooling (Claude Code / GitHub Copilot) ---
+    // "claudeCode.preferredLocation": "panel",
+    // "chat.viewSessions.orientation": "stacked",
+    // "github.copilot.enable": {
+    //     "*": false,
+    //     "plaintext": false,
+    //     "markdown": false,
+    //     "scminput": false
+    // },
+    // "github.copilot.nextEditSuggestions.eagerness": "low",
+
+    // --- Per-language formatters (add only what you use) ---
+    // "[rust]": {
+    //     "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    //     "editor.formatOnSave": true
+    // },
+    // "[python]": {
+    //     "editor.defaultFormatter": "ms-python.black-formatter",
+    //     "editor.formatOnSave": true
+    // },
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    //     "editor.formatOnSave": true
+    // },
+    // "[typescript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    //     "editor.formatOnSave": true
+    // },
+    // "rust-analyzer.check.command": "clippy",
+    // "rust-analyzer.lens.enable": true,
+
+    // --- Embedded / ESP-IDF ---
+    // "idf.gitPath": "/usr/bin/git",
+    // "idf.hasWalkthroughBeenShown": true
+}
